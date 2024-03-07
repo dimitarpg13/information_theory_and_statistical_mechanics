@@ -1,5 +1,9 @@
 # Information Theory and Statistical Mechanics Resources
 
+## books
+
+[Information Theory, Robert B. Ash, 1965](applied_statistics/books/SequentialAnalysis/handbook-of-sequential-analysis-statistics-a-series-of-textbooks-and-monographs-1nbsped.pdf)
+
 ## articles
 
 [Information Theory and Statistical Mechanics, Part I, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part1_Jaynes_1957.pdf)
