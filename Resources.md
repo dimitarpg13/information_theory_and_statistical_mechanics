@@ -12,6 +12,8 @@
 
 [Introduction to Information Theory and Applications, F. Bavaud, JC Chappelier, J Kohlas, 2005](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/information-theory-and-applications_Bavaoud_2005.pdf)
 
+[Statistical Mechanics: Entropy, Order Parameters and Complexity, JP Sethna, 2006](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Entropy_Order_Parameters_and_Complexity_Sethna_2017.pdf)
+
 ## articles
 
 [Information Theory and Statistical Mechanics, Part I, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part1_Jaynes_1957.pdf)
