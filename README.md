@@ -39,3 +39,6 @@ This repository is a work in progress. The repo will be updated regularly.
 
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
+## Note
+
+This repository uses git Large File Storage feature. In order to download locally the large files (> 7MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/
