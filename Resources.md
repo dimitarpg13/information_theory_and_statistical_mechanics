@@ -20,6 +20,8 @@
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
 
+[Communication Theory of Secrecy Systems, Claude Shannon, The Bell System Technical Journal, 1949](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Communication_Theory_of_Secrecy_Systems_Shannon-BSTJ_1949.pdf)
+
 [Information Theory and Statistical Mechanics, Part I, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part1_Jaynes_1957.pdf)
 
 [Information Theory and Statistical Mechanics, Part II, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part2_Jaynes_1957.pdf)
