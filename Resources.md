@@ -16,6 +16,8 @@
 
 [Statistical Mechanics: Entropy, Order Parameters and Complexity, JP Sethna, 2006](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Entropy_Order_Parameters_and_Complexity_Sethna_2017.pdf)
 
+[Farwell to Entropy: Statistical Thermodynamics based on Information, Arieh Ben-Naim, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Arieh_Ben-Naim-A_Farewell_To_Entropy_Statistical_Thermodynamics_Based_On_Information_2008.pdf)
+
 ## articles
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
