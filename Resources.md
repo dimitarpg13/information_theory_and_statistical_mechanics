@@ -22,6 +22,8 @@
 
 [Communication Theory of Secrecy Systems, Claude Shannon, The Bell System Technical Journal, 1949](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Communication_Theory_of_Secrecy_Systems_Shannon-BSTJ_1949.pdf)
 
+[Claude Shannon - Collected Papers: Part A: Communication Theory, Information Theory, Cryptography, Part B: Computers, Circuits, Games, Part C: Genetics, PhD Thesis](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Claude_Shannon-Collected_Papers_ATT_Bell_Labs_1992.pdf)
+
 [Information Theory and Statistical Mechanics, Part I, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part1_Jaynes_1957.pdf)
 
 [Information Theory and Statistical Mechanics, Part II, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part2_Jaynes_1957.pdf)
