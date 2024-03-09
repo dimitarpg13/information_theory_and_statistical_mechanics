@@ -2,7 +2,7 @@
 
 ## books
 
-[The Mathematical Theory of Communication, C. Shannon and Warren Weaver, 1964](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Shannon_Claude_E_Weaver_Warren_The_Mathematical_Theory_of_Communication_1963.pdf)
+[The Mathematical Theory of Communication, Claude Shannon and Warren Weaver, 1964](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Shannon_Claude_E_Weaver_Warren_The_Mathematical_Theory_of_Communication_1963.pdf)
 
 [Information Theory, Robert B. Ash, 1965](applied_statistics/books/SequentialAnalysis/handbook-of-sequential-analysis-statistics-a-series-of-textbooks-and-monographs-1nbsped.pdf)
 
