@@ -16,9 +16,17 @@
 
 [Statistical Mechanics: Entropy, Order Parameters and Complexity, JP Sethna, 2006](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Entropy_Order_Parameters_and_Complexity_Sethna_2017.pdf)
 
+[Farwell to Entropy: Statistical Thermodynamics based on Information, Arieh Ben-Naim, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Arieh_Ben-Naim-A_Farewell_To_Entropy_Statistical_Thermodynamics_Based_On_Information_2008.pdf)
+
+[Statistical Physics and Information Theory, Neri Merhav, Technion, Lecture notes](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Statistical_Physics_and_Information_Theory_Merhav_Technion.pdf)
+
 ## articles
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
+
+[Communication Theory of Secrecy Systems, Claude Shannon, The Bell System Technical Journal, 1949](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Communication_Theory_of_Secrecy_Systems_Shannon-BSTJ_1949.pdf)
+
+[Claude Shannon - Collected Papers: Part A: Communication Theory, Information Theory, Cryptography, Part B: Computers, Circuits, Games, Part C: Genetics, PhD Thesis](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Claude_Shannon-Collected_Papers_ATT_Bell_Labs_1992.pdf)
 
 [Information Theory and Statistical Mechanics, Part I, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part1_Jaynes_1957.pdf)
 
