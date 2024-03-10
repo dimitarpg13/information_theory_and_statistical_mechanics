@@ -35,3 +35,9 @@
 ### Percolation Theory and Mazes
 
 [Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
+
+### Fisher information metric
+
+[Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
+
+[Approximations to the Fisher Information Metric of Deep Generative Models for Out-Of-Distribution Detection, S. Dauncey et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Approximations_to_the_Fisher_Information_Metric_of_Deep_Generative_Models_for_Out-Of-Distribution_Detection_Dauncey_2024.pdf)
