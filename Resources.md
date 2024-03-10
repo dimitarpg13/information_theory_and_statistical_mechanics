@@ -40,6 +40,10 @@
 
 [Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
 
+[An elementary introduction to information geometry, Frank Nielsen, Sony Corp., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/An_elementary_introduction_to_information_geometry_Nielsen_2020.pdf)
+
 [Far-from-Equilibrium Measurements of Thermodynamic Length, EH Feng, GE Crooks, UC Berkeley, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/Far-from-Equilibrium_Measurements_of_Thermodynamic_Length_Feng_2008.pdf)
 
 [Approximations to the Fisher Information Metric of Deep Generative Models for Out-Of-Distribution Detection, S. Dauncey et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Approximations_to_the_Fisher_Information_Metric_of_Deep_Generative_Models_for_Out-Of-Distribution_Detection_Dauncey_2024.pdf)
+
+[The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
