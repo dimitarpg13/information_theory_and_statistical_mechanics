@@ -40,6 +40,8 @@
 
 [Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
 
+[Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
+
 [An elementary introduction to information geometry, Frank Nielsen, Sony Corp., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/An_elementary_introduction_to_information_geometry_Nielsen_2020.pdf)
 
 [Far-from-Equilibrium Measurements of Thermodynamic Length, EH Feng, GE Crooks, UC Berkeley, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/Far-from-Equilibrium_Measurements_of_Thermodynamic_Length_Feng_2008.pdf)
