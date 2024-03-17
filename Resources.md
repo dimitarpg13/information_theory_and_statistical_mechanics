@@ -20,6 +20,8 @@
 
 [Statistical Physics and Information Theory, Neri Merhav, Technion, Lecture notes](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Statistical_Physics_and_Information_Theory_Merhav_Technion.pdf)
 
+[Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
+
 ## articles
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
