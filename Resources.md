@@ -6,6 +6,8 @@
 
 [Information Theory, Robert B. Ash, 1965](applied_statistics/books/SequentialAnalysis/handbook-of-sequential-analysis-statistics-a-series-of-textbooks-and-monographs-1nbsped.pdf)
 
+[Information Theory, Inference, and Learning Algorithms, David MacKay, 2005 (Ver 7)](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Information_Theory_Inference_and_Learning_Algorithms_MacKay_2005.pdf)
+
 [Elements of Information Theory, Thomas M. Cover, Joy A. Thomas, 2006](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.pdf)
 
 [Entropy and Information Theory, Robert M. Gray, Stanford U.,  First Edition, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/EntropyAndInformationTheory_Gray_Stanford_2023.pdf)
