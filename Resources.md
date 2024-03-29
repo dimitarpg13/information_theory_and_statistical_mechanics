@@ -24,6 +24,8 @@
 
 [Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
 
+[The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
+
 ## articles
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
