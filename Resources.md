@@ -44,6 +44,16 @@
 
 [Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 
+[Backbone Exponent for Two Dimensional Percolation, Pierre Nollin et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Backbone_exponent_for_two-dimensional_percolation_Nolin_2024.pdf)
+
+[Near-Critical Percolation in Two Dimensions, Pierre Nollin, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Near-critical_percolation_in_two_dimensions_Pierre_Nolin_2007.pdf)
+
+[Continuum Limits for Critical Percolation and Other Stochastic Geometric Models, M. Aizenman, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Continuum_Limits_for_Critical_Percolation_and_Other_Stochastic_Geometric_Models_Aizeman_1998.pdf)
+
+[Critical Exponents for Two-Dimensional Percolation, S. Smirnov et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Critical_Exponents_for_Two-Dimensional_Percolation_Smirnov_2001.pdf)
+
+[Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
+
 ### Fisher information metric
 
 [Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
