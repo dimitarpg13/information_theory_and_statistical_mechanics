@@ -1,4 +1,4 @@
-# Information Theory and Statistical Mechanics Resources
+# Resource on Information Theory, Statistical Mechanics, Generative and Diffusion Models
 
 ## books
 
@@ -44,6 +44,16 @@
 
 [Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 
+[Backbone Exponent for Two Dimensional Percolation, Pierre Nollin et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Backbone_exponent_for_two-dimensional_percolation_Nolin_2024.pdf)
+
+[Near-Critical Percolation in Two Dimensions, Pierre Nollin, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Near-critical_percolation_in_two_dimensions_Pierre_Nolin_2007.pdf)
+
+[Continuum Limits for Critical Percolation and Other Stochastic Geometric Models, M. Aizenman, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Continuum_Limits_for_Critical_Percolation_and_Other_Stochastic_Geometric_Models_Aizeman_1998.pdf)
+
+[Critical Exponents for Two-Dimensional Percolation, S. Smirnov et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Critical_Exponents_for_Two-Dimensional_Percolation_Smirnov_2001.pdf)
+
+[Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
+
 ### Fisher information metric
 
 [Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
@@ -59,6 +69,26 @@
 [Approximations to the Fisher Information Metric of Deep Generative Models for Out-Of-Distribution Detection, S. Dauncey et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Approximations_to_the_Fisher_Information_Metric_of_Deep_Generative_Models_for_Out-Of-Distribution_Detection_Dauncey_2024.pdf)
 
 [The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
+
+## Generative and diffusion models
+
+[Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+
+[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics, Jascha Sohl-Dickstein et al, Stanford U., 2015](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dickstein_2015.pdf)
+
+[Tutorial on Diffusion Models for Imaging and Vision, Stanley Chan, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision_Chan_2024.pdf)
+
+[Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
+
+[Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
+
+[Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
+
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
+
+[Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
+
+[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
 # Information Theory Lectures
 
