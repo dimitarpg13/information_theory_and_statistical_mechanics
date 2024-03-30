@@ -60,6 +60,26 @@
 
 [The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
 
+## Generative and diffusion models
+
+[Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+
+[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics, Jascha Sohl-Dickstein et al, Stanford U., 2015](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dickstein_2015.pdf)
+
+[Tutorial on Diffusion Models for Imaging and Vision, Stanley Chan, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision_Chan_2024.pdf)
+
+[Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
+
+[Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
+
+[Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
+
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
+
+[Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
+
+[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
+
 # Information Theory Lectures
 
 ## Harvard 2022, Gregory Falkovich
