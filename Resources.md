@@ -100,6 +100,12 @@
 
 [Klaus Schulten's lecture notes on non-equilibrium statistical mechanics, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/tree/main/literature/articles/non_equilibrium_statistical_mechanics/lecture_notes_klaus_schulten)
 
+[Generalized Fokker-Planck Equation: Derivation and Exact Solutions, SI Denisov et al, 2009](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Generalized_Fokker-Planck_equation-Derivation_and_exact_solutions_Denisov_2009.pdf)
+
+[Probability Flow solution of the Fokker-Planck Equation, Nicholas Boffi, Eric Venden Eijnden, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Probability_flow_solution_of_the_Fokker-Planck_equation_Boffi_NYU_Courrant_2023.pdf)
+
+[Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
+
 # Information Theory Lectures
 
 ## Harvard 2022, Gregory Falkovich
