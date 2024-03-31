@@ -98,6 +98,8 @@
 
 [Fokker-Planck Equation, Wikipedia](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
 
+[Klaus Schulten's lecture notes on non-equilibrium statistical mechanics, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/tree/main/literature/articles/non_equilibrium_statistical_mechanics/lecture_notes_klaus_schulten)
+
 # Information Theory Lectures
 
 ## Harvard 2022, Gregory Falkovich
