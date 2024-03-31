@@ -92,6 +92,12 @@
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
+## The Fokker-Planck equation
+
+[The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
+
+[Fokker-Planck Equation, Wikipedia](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+
 # Information Theory Lectures
 
 ## Harvard 2022, Gregory Falkovich
