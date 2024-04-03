@@ -150,4 +150,4 @@
 
 ### Nando Freitas, Machine Learning, UBC 2013-2014
 
-[Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, UBC 2013](https://youtu.be/4vGiHC35j9s)
+[Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
