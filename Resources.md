@@ -148,6 +148,6 @@
 
 ## Gaussian Processes Lectures
 
-### Gaussian Processes, Nando Freitas, 2013
+### Nando Freitas, Machine Learning, UBC 2013
 
 [Introduction to Gaussian Processes, Nando Freitas](https://youtu.be/4vGiHC35j9s)
