@@ -106,6 +106,12 @@
 
 [Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
 
+## The Diffusion Transformer
+
+[Diffusion Transformer Explained: Exploring the architecture that brought transformers into image generation, Mario Larcher, Feb 28, 2024](https://towardsdatascience.com/diffusion-transformer-explained-e603c4770f7e)
+
+[Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
+
 ## Information Theory Lectures
 
 ### Harvard 2022, Gregory Falkovich
