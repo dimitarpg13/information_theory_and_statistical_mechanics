@@ -108,6 +108,16 @@
 
 ## The Diffusion Transformer
 
+[Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
+
+[Masked Diffusion Transformer is a Strong Image Synthesizer, S. Gao et al Sea AI Lab, Nankai U., 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf)
+
+[DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, S. Mo et al, Huawei, NeurIPS 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiT-3D-Exploring_Plain_Diffusion_Transformers_for_3D_Shape_Generation_Mo_NeurIPS_2023.pdf)
+
+[FiT: Flexible Vision Transformer for Diffusion Model, Z. Lu et al, Feb 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/FiT-Flexible_Vision_Transformer_for_Diffusion_Model_Lu_2024.pdf)
+
+[DiffiT: Diffusion Vision Transformers for Image Generation, A. Hatamizadeh et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiffiT-Diffusion_Vision_Transformers_for_Image_Generation_Hatamizadeh_2023.pdf)
+
 [Diffusion Transformer Explained: Exploring the architecture that brought transformers into image generation, Mario Larcher, Feb 28, 2024](https://towardsdatascience.com/diffusion-transformer-explained-e603c4770f7e)
 
 [Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
