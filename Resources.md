@@ -4,7 +4,7 @@
 
 [The Mathematical Theory of Communication, Claude Shannon and Warren Weaver, 1964](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Shannon_Claude_E_Weaver_Warren_The_Mathematical_Theory_of_Communication_1963.pdf)
 
-[Information Theory, Robert B. Ash, 1965](applied_statistics/books/SequentialAnalysis/handbook-of-sequential-analysis-statistics-a-series-of-textbooks-and-monographs-1nbsped.pdf)
+[Information Theory, Robert B. Ash, 1965](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Information_Theory-Robert_Ash.pdf)
 
 [Information Theory, Inference, and Learning Algorithms, David MacKay, 2005 (Ver 7)](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Information_Theory_Inference_and_Learning_Algorithms_MacKay_2005.pdf)
 
@@ -105,6 +105,12 @@
 [Probability Flow solution of the Fokker-Planck Equation, Nicholas Boffi, Eric Venden Eijnden, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Probability_flow_solution_of_the_Fokker-Planck_equation_Boffi_NYU_Courrant_2023.pdf)
 
 [Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
+
+## The Diffusion Transformer
+
+[Diffusion Transformer Explained: Exploring the architecture that brought transformers into image generation, Mario Larcher, Feb 28, 2024](https://towardsdatascience.com/diffusion-transformer-explained-e603c4770f7e)
+
+[Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
 
 ## Information Theory Lectures
 
