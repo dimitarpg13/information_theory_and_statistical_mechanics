@@ -106,9 +106,9 @@
 
 [Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
 
-# Information Theory Lectures
+## Information Theory Lectures
 
-## Harvard 2022, Gregory Falkovich
+### Harvard 2022, Gregory Falkovich
 
 [Lecture 1](https://youtu.be/QJCKwTOKjQQ?si=7-hIYWjT0G6BfqS7)
 
@@ -145,3 +145,9 @@
 [Lecture 10, Part 2](https://youtu.be/RqrRjFdUMNQ?si=J9jaTvaLAns57okl)
 
 [Lecture 11, Epilogue](https://youtu.be/DVAFSWYsCCg?si=m4HlRNAqr47CncMJ)
+
+## Gaussian Processes Lectures
+
+### Nando Freitas, Machine Learning, UBC 2013-2014
+
+[Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
