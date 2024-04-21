@@ -28,6 +28,8 @@
 
 [Latent Variable Models: Introduction to Factor Analysis and Structural Equation Analysis, John C. Loehlin, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Latent_Variable_Models_Loehlin_2004.pdf)
 
+[Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
+
 ## articles
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
@@ -41,8 +43,6 @@
 [Information Theory and Statistical Mechanics, Part II, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part2_Jaynes_1957.pdf)
 
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
-
-[Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
 ### Percolation Theory and Mazes
 
