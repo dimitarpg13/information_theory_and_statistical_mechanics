@@ -86,6 +86,8 @@
 
 [Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
 
+[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
+
 [Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
 
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
