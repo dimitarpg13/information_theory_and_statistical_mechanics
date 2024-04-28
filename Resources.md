@@ -78,6 +78,12 @@
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
+[What are Diffusion Models? Lilian Weng, OpenAI, 2021 (online blog)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+
+[Diffusion Models for Video Generation, Lilian Weng, OpenAI, 2024 (online blog)](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
+
+[Generative Modeling by Estimating Gradients of the Data Distribution, Yang Song, Stanford, 2021 (online blog)](https://yang-song.net/blog/2021/score/)
+
 [Deep Unsupervised Learning Using Nonequilibrium Thermodynamics, Jascha Sohl-Dickstein et al, Stanford U., 2015](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dickstein_2015.pdf)
 
 [Tutorial on Diffusion Models for Imaging and Vision, Stanley Chan, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision_Chan_2024.pdf)
@@ -85,6 +91,8 @@
 [Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
 
 [Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
+
+[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
 
 [Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
 
