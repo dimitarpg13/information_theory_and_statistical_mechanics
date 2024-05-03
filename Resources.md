@@ -1,4 +1,4 @@
-# Resource on Information Theory, Statistical Mechanics, Generative and Diffusion Models
+# Resource on Information Theory, Statistical Mechanics, Generative and Diffusion Models, Coding Theory
 
 ## books
 
