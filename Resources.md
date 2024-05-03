@@ -32,6 +32,10 @@
 
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
+[Modern Coding Theory, T. Richardson, R. Urbanke, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/ModernCodingTheory.pdf)
+
+[Coding Theory: A First Course, Henk C.A. van Tilborg, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/coding-theory-a-first-course-van-tilborg.pdf)
+
 ## articles
 
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
