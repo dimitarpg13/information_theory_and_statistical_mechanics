@@ -1,5 +1,5 @@
 # Information Theory and Statistical Mechanics
-Study materials on Information Theory and its relations with physical systems models 
+Study materials on Information Theory and its relations with physical systems models. Also some materials on Coding Theory.
 
 This repository is a work in progress. The repo will be updated regularly.
 
