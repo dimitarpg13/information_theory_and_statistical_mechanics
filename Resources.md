@@ -20,6 +20,8 @@
 
 [Farwell to Entropy: Statistical Thermodynamics based on Information, Arieh Ben-Naim, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Arieh_Ben-Naim-A_Farewell_To_Entropy_Statistical_Thermodynamics_Based_On_Information_2008.pdf)
 
+[Diffusion Processes and Stochastic Calculus, Fabrice Baudoin, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Diffusion_Processes_and_Stochastic_Calculus_Boudoin_2019.pdf)
+
 [Statistical Physics and Information Theory, Neri Merhav, Technion, Lecture notes](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Statistical_Physics_and_Information_Theory_Merhav_Technion.pdf)
 
 [Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
