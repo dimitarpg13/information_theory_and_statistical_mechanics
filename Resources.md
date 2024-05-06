@@ -1,4 +1,4 @@
-# Resource on Information Theory, Statistical Mechanics, Generative and Diffusion Models
+# Resource on Information Theory, Statistical Mechanics, Generative and Diffusion Models, Coding Theory
 
 ## books
 
@@ -31,6 +31,10 @@
 [Latent Variable Models: Introduction to Factor Analysis and Structural Equation Analysis, John C. Loehlin, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Latent_Variable_Models_Loehlin_2004.pdf)
 
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
+
+[Modern Coding Theory, T. Richardson, R. Urbanke, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/ModernCodingTheory.pdf)
+
+[Coding Theory: A First Course, Henk C.A. van Tilborg, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/coding-theory-a-first-course-van-tilborg.pdf)
 
 ## articles
 
