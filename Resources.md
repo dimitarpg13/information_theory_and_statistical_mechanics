@@ -195,3 +195,7 @@
 ### Nando Freitas, Machine Learning, UBC 2013-2014
 
 [Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
+
+## Statistical Mechanics for Deep Learning
+
+[Statistical Mechanics of Deep Learning at Kavli Institute for Theoretical Physics, Haim Sompolinsky (Hebrew Univ), 2023](https://youtu.be/y5sT7TlIQGk)
