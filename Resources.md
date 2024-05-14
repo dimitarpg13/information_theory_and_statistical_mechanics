@@ -50,37 +50,7 @@
 
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
 
-### Percolation Theory and Mazes
-
-[Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
-
-[Backbone Exponent for Two Dimensional Percolation, Pierre Nollin et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Backbone_exponent_for_two-dimensional_percolation_Nolin_2024.pdf)
-
-[Near-Critical Percolation in Two Dimensions, Pierre Nollin, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Near-critical_percolation_in_two_dimensions_Pierre_Nolin_2007.pdf)
-
-[Continuum Limits for Critical Percolation and Other Stochastic Geometric Models, M. Aizenman, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Continuum_Limits_for_Critical_Percolation_and_Other_Stochastic_Geometric_Models_Aizeman_1998.pdf)
-
-[Critical Exponents for Two-Dimensional Percolation, S. Smirnov et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Critical_Exponents_for_Two-Dimensional_Percolation_Smirnov_2001.pdf)
-
-[Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
-
-### Fisher information metric
-
-[Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
-
-[Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
-
-[An elementary introduction to information geometry, Frank Nielsen, Sony Corp., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/An_elementary_introduction_to_information_geometry_Nielsen_2020.pdf)
-
-[Algebraic and geometric methods in statistics, Paolo Gibilisco, Eva Riccomagno, Maria Piera Rogantin, Henry P. Wynn, 2010](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/Algebraic_and_Geometric_Methods_in_Statistics_Gibilisco.pdf)
-
-[Far-from-Equilibrium Measurements of Thermodynamic Length, EH Feng, GE Crooks, UC Berkeley, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/Far-from-Equilibrium_Measurements_of_Thermodynamic_Length_Feng_2008.pdf)
-
-[Approximations to the Fisher Information Metric of Deep Generative Models for Out-Of-Distribution Detection, S. Dauncey et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Approximations_to_the_Fisher_Information_Metric_of_Deep_Generative_Models_for_Out-Of-Distribution_Detection_Dauncey_2024.pdf)
-
-[The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
-
-## Generative and diffusion models
+### Generative and diffusion models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
@@ -112,7 +82,7 @@
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
-## The Fokker-Planck equation
+### The Fokker-Planck equation
 
 [The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
 
@@ -126,7 +96,7 @@
 
 [Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
 
-## The Diffusion Transformer
+### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
 
@@ -142,7 +112,7 @@
 
 [Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
 
-## Variational Autoencoders
+### Variational Autoencoders
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
 
@@ -150,9 +120,39 @@
 
 [Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
 
-## Thermodynamics of Computation
+### Fisher information metric
+
+[Fisher information metric, Wikipedia](https://en.wikipedia.org/wiki/Fisher_information_metric)
+
+[Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
+
+[An elementary introduction to information geometry, Frank Nielsen, Sony Corp., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/An_elementary_introduction_to_information_geometry_Nielsen_2020.pdf)
+
+[Algebraic and geometric methods in statistics, Paolo Gibilisco, Eva Riccomagno, Maria Piera Rogantin, Henry P. Wynn, 2010](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/Algebraic_and_Geometric_Methods_in_Statistics_Gibilisco.pdf)
+
+[Far-from-Equilibrium Measurements of Thermodynamic Length, EH Feng, GE Crooks, UC Berkeley, 2008](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/Far-from-Equilibrium_Measurements_of_Thermodynamic_Length_Feng_2008.pdf)
+
+[Approximations to the Fisher Information Metric of Deep Generative Models for Out-Of-Distribution Detection, S. Dauncey et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Approximations_to_the_Fisher_Information_Metric_of_Deep_Generative_Models_for_Out-Of-Distribution_Detection_Dauncey_2024.pdf)
+
+[The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
+
+### Thermodynamics of Computation
 
 [Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times, G. Manzano et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamics_of_Computations_with_Absolute_Irreversibility_Unidirectional_Transitions_and_Stochastic_Computation_Times_Manzano_2024.pdf)
+
+### Percolation Theory and Mazes
+
+[Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
+
+[Backbone Exponent for Two Dimensional Percolation, Pierre Nollin et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Backbone_exponent_for_two-dimensional_percolation_Nolin_2024.pdf)
+
+[Near-Critical Percolation in Two Dimensions, Pierre Nollin, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Near-critical_percolation_in_two_dimensions_Pierre_Nolin_2007.pdf)
+
+[Continuum Limits for Critical Percolation and Other Stochastic Geometric Models, M. Aizenman, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Continuum_Limits_for_Critical_Percolation_and_Other_Stochastic_Geometric_Models_Aizeman_1998.pdf)
+
+[Critical Exponents for Two-Dimensional Percolation, S. Smirnov et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Critical_Exponents_for_Two-Dimensional_Percolation_Smirnov_2001.pdf)
+
+[Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
 
 ## Information Theory Lectures
 
