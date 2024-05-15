@@ -140,6 +140,8 @@
 
 [Statistical Mechanics of Deep Linear Neural Networks: The Back-Propagating Kernel Renormalization, Qianyi Li, Haim Sompolinsky, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/statistical_mechanics_of_neural_nets/Statistical_Mechanics_of_Deep_Linear_Neural_Networks-The_Back-Propagating_Kernel_Renormalization_Li_Sompolinsky_2021.pdf)
 
+[The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
+
 ### Thermodynamics of Computation
 
 [Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times, G. Manzano et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamics_of_Computations_with_Absolute_Irreversibility_Unidirectional_Transitions_and_Stochastic_Computation_Times_Manzano_2024.pdf)
