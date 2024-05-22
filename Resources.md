@@ -50,19 +50,75 @@
 
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
 
-### Percolation Theory and Mazes
+### Generative and diffusion models
 
-[Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
+[Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
-[Backbone Exponent for Two Dimensional Percolation, Pierre Nollin et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Backbone_exponent_for_two-dimensional_percolation_Nolin_2024.pdf)
+[What are Diffusion Models? Lilian Weng, OpenAI, 2021 (online blog)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
-[Near-Critical Percolation in Two Dimensions, Pierre Nollin, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Near-critical_percolation_in_two_dimensions_Pierre_Nolin_2007.pdf)
+[Diffusion Models for Video Generation, Lilian Weng, OpenAI, 2024 (online blog)](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 
-[Continuum Limits for Critical Percolation and Other Stochastic Geometric Models, M. Aizenman, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Continuum_Limits_for_Critical_Percolation_and_Other_Stochastic_Geometric_Models_Aizeman_1998.pdf)
+[Generative Modeling by Estimating Gradients of the Data Distribution, Yang Song, Stanford, 2021 (online blog)](https://yang-song.net/blog/2021/score/)
 
-[Critical Exponents for Two-Dimensional Percolation, S. Smirnov et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Critical_Exponents_for_Two-Dimensional_Percolation_Smirnov_2001.pdf)
+[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics, Jascha Sohl-Dickstein et al, Stanford U., 2015](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dickstein_2015.pdf)
 
-[Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
+[Tutorial on Diffusion Models for Imaging and Vision, Stanley Chan, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision_Chan_2024.pdf)
+
+[On Error Propagation of Diffusion Models, Y. Li, Michaela van der Schaar, U of Cambridge, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/On_Error_Propagation_of_Diffusion_Models_Li_van_der_Schaar_2024.pdf)
+
+[Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
+
+[Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
+
+[Generative Models of Images and Neural Networks, William Smith Peebles, PhD Thesis, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Models_of_Images_and_Neural_Networks_Peebles_EECS-2023-108.pdf)
+
+[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
+
+[Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
+
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
+
+[Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
+
+[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
+
+### The Fokker-Planck equation
+
+[The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
+
+[Fokker-Planck Equation, Wikipedia](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+
+[Klaus Schulten's lecture notes on non-equilibrium statistical mechanics, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/tree/main/literature/articles/non_equilibrium_statistical_mechanics/lecture_notes_klaus_schulten)
+
+[Generalized Fokker-Planck Equation: Derivation and Exact Solutions, SI Denisov et al, 2009](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Generalized_Fokker-Planck_equation-Derivation_and_exact_solutions_Denisov_2009.pdf)
+
+[Probability Flow solution of the Fokker-Planck Equation, Nicholas Boffi, Eric Venden Eijnden, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Probability_flow_solution_of_the_Fokker-Planck_equation_Boffi_NYU_Courrant_2023.pdf)
+
+[Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
+
+### The Diffusion Transformer
+
+[Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
+
+[Masked Diffusion Transformer is a Strong Image Synthesizer, S. Gao et al Sea AI Lab, Nankai U., 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf)
+
+[DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, S. Mo et al, Huawei, NeurIPS 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiT-3D-Exploring_Plain_Diffusion_Transformers_for_3D_Shape_Generation_Mo_NeurIPS_2023.pdf)
+
+[FiT: Flexible Vision Transformer for Diffusion Model, Z. Lu et al, Feb 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/FiT-Flexible_Vision_Transformer_for_Diffusion_Model_Lu_2024.pdf)
+
+[DiffiT: Diffusion Vision Transformers for Image Generation, A. Hatamizadeh et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiffiT-Diffusion_Vision_Transformers_for_Image_Generation_Hatamizadeh_2023.pdf)
+
+[Diffusion Transformer Explained: Exploring the architecture that brought transformers into image generation, Mario Larcher, Feb 28, 2024](https://towardsdatascience.com/diffusion-transformer-explained-e603c4770f7e)
+
+[Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
+
+### Variational Autoencoders
+
+[Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
+
+[Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
+
+[Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
 
 ### Fisher information metric
 
@@ -80,71 +136,29 @@
 
 [The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
 
-## Generative and diffusion models
+### Statistical Mechanics of Neural Networks
 
-[Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+[Statistical Mechanics of Deep Linear Neural Networks: The Back-Propagating Kernel Renormalization, Qianyi Li, Haim Sompolinsky, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/statistical_mechanics_of_neural_nets/Statistical_Mechanics_of_Deep_Linear_Neural_Networks-The_Back-Propagating_Kernel_Renormalization_Li_Sompolinsky_2021.pdf)
 
-[What are Diffusion Models? Lilian Weng, OpenAI, 2021 (online blog)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+[The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
 
-[Diffusion Models for Video Generation, Lilian Weng, OpenAI, 2024 (online blog)](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
+### Thermodynamics of Computation
 
-[Generative Modeling by Estimating Gradients of the Data Distribution, Yang Song, Stanford, 2021 (online blog)](https://yang-song.net/blog/2021/score/)
+[Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times, G. Manzano et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamics_of_Computations_with_Absolute_Irreversibility_Unidirectional_Transitions_and_Stochastic_Computation_Times_Manzano_2024.pdf)
 
-[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics, Jascha Sohl-Dickstein et al, Stanford U., 2015](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dickstein_2015.pdf)
+### Percolation Theory and Mazes
 
-[Tutorial on Diffusion Models for Imaging and Vision, Stanley Chan, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision_Chan_2024.pdf)
+[Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 
-[Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
+[Backbone Exponent for Two Dimensional Percolation, Pierre Nollin et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Backbone_exponent_for_two-dimensional_percolation_Nolin_2024.pdf)
 
-[Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
+[Near-Critical Percolation in Two Dimensions, Pierre Nollin, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Near-critical_percolation_in_two_dimensions_Pierre_Nolin_2007.pdf)
 
-[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
+[Continuum Limits for Critical Percolation and Other Stochastic Geometric Models, M. Aizenman, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Continuum_Limits_for_Critical_Percolation_and_Other_Stochastic_Geometric_Models_Aizeman_1998.pdf)
 
-[Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
+[Critical Exponents for Two-Dimensional Percolation, S. Smirnov et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Critical_Exponents_for_Two-Dimensional_Percolation_Smirnov_2001.pdf)
 
-[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
-
-[Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
-
-[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
-
-## The Fokker-Planck equation
-
-[The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
-
-[Fokker-Planck Equation, Wikipedia](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
-
-[Klaus Schulten's lecture notes on non-equilibrium statistical mechanics, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/tree/main/literature/articles/non_equilibrium_statistical_mechanics/lecture_notes_klaus_schulten)
-
-[Generalized Fokker-Planck Equation: Derivation and Exact Solutions, SI Denisov et al, 2009](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Generalized_Fokker-Planck_equation-Derivation_and_exact_solutions_Denisov_2009.pdf)
-
-[Probability Flow solution of the Fokker-Planck Equation, Nicholas Boffi, Eric Venden Eijnden, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Probability_flow_solution_of_the_Fokker-Planck_equation_Boffi_NYU_Courrant_2023.pdf)
-
-[Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
-
-## The Diffusion Transformer
-
-[Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
-
-[Masked Diffusion Transformer is a Strong Image Synthesizer, S. Gao et al Sea AI Lab, Nankai U., 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf)
-
-[DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, S. Mo et al, Huawei, NeurIPS 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiT-3D-Exploring_Plain_Diffusion_Transformers_for_3D_Shape_Generation_Mo_NeurIPS_2023.pdf)
-
-[FiT: Flexible Vision Transformer for Diffusion Model, Z. Lu et al, Feb 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/FiT-Flexible_Vision_Transformer_for_Diffusion_Model_Lu_2024.pdf)
-
-[DiffiT: Diffusion Vision Transformers for Image Generation, A. Hatamizadeh et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiffiT-Diffusion_Vision_Transformers_for_Image_Generation_Hatamizadeh_2023.pdf)
-
-[Diffusion Transformer Explained: Exploring the architecture that brought transformers into image generation, Mario Larcher, Feb 28, 2024](https://towardsdatascience.com/diffusion-transformer-explained-e603c4770f7e)
-
-[Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
-
-## Variational Autoencoders
-
-[Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
-
-[Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
-
-[Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
+[Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
 
 ## Information Theory Lectures
 
@@ -191,3 +205,7 @@
 ### Nando Freitas, Machine Learning, UBC 2013-2014
 
 [Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
+
+## Statistical Mechanics for Deep Learning
+
+[Statistical Mechanics of Deep Learning at Kavli Institute for Theoretical Physics, Haim Sompolinsky (Hebrew Univ), 2023](https://youtu.be/y5sT7TlIQGk)
