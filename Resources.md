@@ -38,6 +38,8 @@
 
 ## articles
 
+[Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
+
 [The Mathematical Theory of Communication, Claude Shannon, The Bell System Technical Journal, 1948](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/The_Mathematical_Theory_of_Communication_C_Shannon_bstj_1948.pdf)
 
 [Communication Theory of Secrecy Systems, Claude Shannon, The Bell System Technical Journal, 1949](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Communication_Theory_of_Secrecy_Systems_Shannon-BSTJ_1949.pdf)
