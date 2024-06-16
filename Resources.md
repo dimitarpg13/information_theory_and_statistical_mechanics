@@ -116,6 +116,8 @@
 
 [Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
 
+[DiTFastAttn: Attention Compression for Diffusion Transformer Models, Zhihang Yuan et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiffiT-Diffusion_Vision_Transformers_for_Image_Generation_Hatamizadeh_2023.pdf)
+
 ### Variational Autoencoders
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
