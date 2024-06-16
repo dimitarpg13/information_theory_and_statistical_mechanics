@@ -122,6 +122,8 @@
 
 [DiTFastAttn: Attention Compression for Diffusion Transformer Models, Zhihang Yuan et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/DiffiT-Diffusion_Vision_Transformers_for_Image_Generation_Hatamizadeh_2023.pdf)
 
+[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis, Patrick Esser et al, Stability AI, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scaling_Rectified_Flow_Transformers_for_High-Resolution_Image_Synthesis_Esser_2024.pdf)
+
 ### Variational Autoencoders
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
