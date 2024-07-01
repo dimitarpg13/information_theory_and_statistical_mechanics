@@ -26,6 +26,8 @@
 
 [Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
 
+[Numerical Solution of Stochastic Differential Equations, Peter E. Kloeden, Eckhart Platten, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Numerical_Solution_of_Stochastic_Differential_Equations_Kloeden_1999.pdf)
+
 [The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
 
 [Latent Variable Models: Introduction to Factor Analysis and Structural Equation Analysis, John C. Loehlin, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Latent_Variable_Models_Loehlin_2004.pdf)
