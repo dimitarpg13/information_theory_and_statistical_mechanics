@@ -86,6 +86,8 @@
 
 [Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
 
+[Score-Based Generative Modeling through Stochastic Differential Equations, Yang Song et al, Stanford U., 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Score-Based_Generative_Modeling_through_Stochastic_Differential_Equations_Song_2021.pdf)
+
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
 
 [Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
