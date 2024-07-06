@@ -78,21 +78,45 @@
 
 [Lightweight Diffusion Models: A Survey, W. Song et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Lightweight_Diffusion_Models_A_Survey_Song_2024.pdf)
 
+[Perspectives on Diffusion, Sander Dieleman, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Perspectives_on_diffusion%E2%80%93Sander_Dieleman_2023.pdf)
+
 [Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
 
 [Generative Models of Images and Neural Networks, William Smith Peebles, PhD Thesis, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Models_of_Images_and_Neural_Networks_Peebles_EECS-2023-108.pdf)
-
-[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
 
 [Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
 
 [Score-Based Generative Modeling through Stochastic Differential Equations, Yang Song et al, Stanford U., 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Score-Based_Generative_Modeling_through_Stochastic_Differential_Equations_Song_2021.pdf)
 
-[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
+[Learning General Gaussian Mixtures with Efficient Score Matching, S. Chen et al, Harvard U, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Learning_general_Gaussian_mixtures_with_efficient_score_matching_Chen_2024.pdf)
+
+[Diffusion Shroedinger Bridge with Application to Score-Based Generative Modeling, Valentin de Bortoli et al, U. of Oxford, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Schr%C3%B6dinger_Bridge_with_Applications_to_Score-Based_Generative_Modeling_De_Bortolli_2023.pdf)
+
+[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
 [Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
 
-[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
+[Denoising Diffusion Implicit Models, J. Song et al, ICLR 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/denoising_diffusion_implicit_models_Song_Stanford_2021.pdf)
+
+[Flow Matching for Generative Modeling, Yaron Lipman et al, Meta FAIR, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Flow_Matching_for_Generative_Modeling_Lipman_Meta_2023.pdf)
+
+[Interpreting and Improving Diffusion Models from an Optimization Perspective, F. Permenter et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Interpreting_and_Improving_Diffusion_Models_from_an_Optimization_Perspective_Permenter_2023.pdf)
+
+[Sampling, Diffusions, and Stochastic Localization, Andrea Montanari, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Sampling_diffusions_and_stochastic_localization_Montanari_2023.pdf)
+
+[Extracting Training Data From Diffusion Models, Nicholas Carlini et al, Deep Mind, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Extracting_Training_Data_from_Diffusion_Models_usenixsecurity23-carlini.pdf)
+
+[High-Dimensional Dynamics of Generalization Error in Neural Networks, M.S. Advani et al, 2017](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/High-dimensional_dynamics_of_generalization_error_in_neural_networks_Advani_2017.pdf)
+
+[On The Mathematics of Diffusion Models, David McAllester, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/On_the_Mathematics_of_Diffusion_Models_McAllester_2023.pdf)
+
+[Reverse Time Diffusion Equation Models, Brian D.O. Anderson, 1982](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/ReverseTimeDiffusionEquationModels_Anderson_1982.pdf)
+
+[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
+
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
+
+[Navier-Stokes, Fluid Dynamics, Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001.pdf)
 
 ### The Fokker-Planck equation
 
