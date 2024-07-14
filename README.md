@@ -17,7 +17,7 @@ This repository is a work in progress. The repo will be updated regularly.
  
  * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
  
- * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
+ * [Probabilistic Machine Learning and Bayesian Methods](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
 
  * [Statistical Learning, Kernel Methods, Kolomogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
 
