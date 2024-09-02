@@ -38,6 +38,8 @@
 
 [Coding Theory: A First Course, Henk C.A. van Tilborg, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/coding-theory-a-first-course-van-tilborg.pdf)
 
+[An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
