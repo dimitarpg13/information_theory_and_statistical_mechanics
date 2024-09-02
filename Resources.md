@@ -194,6 +194,12 @@
 
 [Thermodynamic Linear Algebra, Maxwell Aifer et al, Normal Computing Corporation, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamic_Linear_Algebra_Aifer_2024.pdf)
 
+### Conformal Prediction algorithms and techniques
+
+[Conformal prediction under ambiguous ground truth, David Stutz et al, 2023, DeepMind](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/conformal_prediction/Conformal_prediction_under_ambiguous_ground_truth_Stutz_2023.pdf)
+
+related repo: https://github.com/google-deepmind/uncertain_ground_truth
+
 ### Percolation Theory and Mazes
 
 [Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
