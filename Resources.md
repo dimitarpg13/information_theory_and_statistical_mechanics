@@ -38,6 +38,8 @@
 
 [Coding Theory: A First Course, Henk C.A. van Tilborg, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/coding-theory-a-first-course-van-tilborg.pdf)
 
+[An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
@@ -191,6 +193,12 @@
 [Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times, G. Manzano et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamics_of_Computations_with_Absolute_Irreversibility_Unidirectional_Transitions_and_Stochastic_Computation_Times_Manzano_2024.pdf)
 
 [Thermodynamic Linear Algebra, Maxwell Aifer et al, Normal Computing Corporation, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamic_Linear_Algebra_Aifer_2024.pdf)
+
+### Conformal Prediction algorithms and techniques
+
+[Conformal prediction under ambiguous ground truth, David Stutz et al, 2023, DeepMind](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/conformal_prediction/Conformal_prediction_under_ambiguous_ground_truth_Stutz_2023.pdf)
+
+related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
 ### Percolation Theory and Mazes
 
