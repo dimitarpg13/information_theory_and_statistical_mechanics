@@ -79,3 +79,5 @@ literature/articles/thermodynamics_of_computation/Thermodynamic_Linear_Algebra_A
 literature/articles/conformal_prediction/Conformal_prediction_under_ambiguous_ground_truth_Stutz_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/kolmogorov_complexity/Kolmogorov_Complexity_and_its_Applications_Li_1990.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Crank-The-Mathematics-of-Diffusion.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Huang-StatMechNeuralNet-Springer21.pdf filter=lfs diff=lfs merge=lfs -text
