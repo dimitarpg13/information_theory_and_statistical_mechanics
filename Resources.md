@@ -64,8 +64,6 @@
 
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
 
-[An Introduction to Stochastic Modeling, Howard M. Taylor, 3rd Edition, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf)
-
 ### Generative and diffusion models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
