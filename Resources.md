@@ -30,6 +30,8 @@
 
 [The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
 
+[Statistical Mechanics of Neural Networks, H. Huang, Springer, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Huang-StatMechNeuralNet-Springer21.pdf)
+
 [Latent Variable Models: Introduction to Factor Analysis and Structural Equation Analysis, John C. Loehlin, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Latent_Variable_Models_Loehlin_2004.pdf)
 
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
@@ -39,6 +41,8 @@
 [Coding Theory: A First Course, Henk C.A. van Tilborg, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/coding-theory-a-first-course-van-tilborg.pdf)
 
 [An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
+
+[The Mathematics of Diffusion, J. Crank, 1975](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Crank-The-Mathematics-of-Diffusion.pdf)
 
 ## articles
 
