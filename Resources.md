@@ -44,6 +44,8 @@
 
 [The Mathematics of Diffusion, J. Crank, 1975](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Crank-The-Mathematics-of-Diffusion.pdf)
 
+[An Introduction to Stochastic Modeling, Howward M. Taylor, 3rd Edition, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
