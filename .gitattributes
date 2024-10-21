@@ -83,3 +83,4 @@ literature/books/Crank-The-Mathematics-of-Diffusion.pdf filter=lfs diff=lfs merg
 literature/books/Huang-StatMechNeuralNet-Springer21.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/BayesianReasoningAndMachineLearningBarber2007-2020.pdf filter=lfs diff=lfs merge=lfs -text
