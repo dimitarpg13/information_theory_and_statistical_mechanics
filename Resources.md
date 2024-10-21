@@ -130,6 +130,8 @@
 
 [Navier-Stokes, Fluid Dynamics, Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001.pdf)
 
+[Probabilistic Modeling and Reasoning: The Junction Tree Algorithm, David Barber, 2003](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
+
 ### The Fokker-Planck equation
 
 [The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
