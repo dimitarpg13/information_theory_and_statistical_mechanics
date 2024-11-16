@@ -48,6 +48,8 @@
 
 [Markov Chains: Gibbs Fields, Monte Carlo Simulation and Queues, Pierre Bremaud, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.pdf)
 
+[Partial Differential Equations, Lawrence C. Evans, First Edition, 1997](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/partial-differential-equations-by-evans.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
@@ -197,6 +199,11 @@
 [Statistical Mechanics of Deep Linear Neural Networks: The Back-Propagating Kernel Renormalization, Qianyi Li, Haim Sompolinsky, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/statistical_mechanics_of_neural_nets/Statistical_Mechanics_of_Deep_Linear_Neural_Networks-The_Back-Propagating_Kernel_Renormalization_Li_Sompolinsky_2021.pdf)
 
 [The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
+
+[The Partition Function in Statistical Mechanics, Wikipedia](https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics))
+
+[Boltzman Distributions and the Partition Function, Charles H. Martin, online blog, 2013](https://calculatedcontent.com/2013/11/14/foundations-the-parition-function/)
+
 
 ### Thermodynamics and Computation
 
