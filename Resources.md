@@ -34,6 +34,8 @@
 
 [Latent Variable Models: Introduction to Factor Analysis and Structural Equation Analysis, John C. Loehlin, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Latent_Variable_Models_Loehlin_2004.pdf)
 
+[Exactly Solved Models in Statistical Mechanics, R.J. Baxter, 1989](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Exactly_Solved_Models_In_Statistical_Mechanics_Baxter_1989.pdf)
+
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
 [Modern Coding Theory, T. Richardson, R. Urbanke, 2007](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/ModernCodingTheory.pdf)
