@@ -54,6 +54,8 @@
 
 [Introduction to Riemannian Maniforlds, John M. Lee, 2nd edition, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Introduction_to_Riemannian_Manifolds_Lee_2018.pdf)
 
+[Introduction to Functional Equations, Costas Eftimiou, UCF, 2010](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Introduction_to_functional_equations_Efthimiou_2010.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
