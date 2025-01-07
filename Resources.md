@@ -58,6 +58,8 @@
 
 [An Introduction to Statistical Mechanics and Thermodynamics, Robert H. Swendsen, 2012](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An-Introduction-to-Statistical-Mechanics-and-Thermodynamics-Swendsen-2012.pdf)
 
+[Statistical Physics by L.D. Landau and E.M. Lifshitz, Second Edition, 1970 (orig. 1958)](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/LandauLifshitz-StatisticalPhysics_1958.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
