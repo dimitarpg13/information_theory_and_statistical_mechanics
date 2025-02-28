@@ -76,6 +76,8 @@
 
 [Information Theory and Statistical Mechanics, Part II, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part2_Jaynes_1957.pdf)
 
+[Can One Hear the Shape of a Drum?, Mark Kac, 1966](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Can_One_Hear_the_Shape_of_a_Drum_Kac_1966.pdf)
+
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
 
 ### Generative and diffusion models
