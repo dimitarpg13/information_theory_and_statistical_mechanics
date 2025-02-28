@@ -90,3 +90,4 @@ literature/books/Exactly_Solved_Models_In_Statistical_Mechanics_Baxter_1989.pdf 
 literature/books/Introduction_to_functional_equations_Efthimiou_2010.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/An-Introduction-to-Statistical-Mechanics-and-Thermodynamics-Swendsen-2012.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/LandauLifshitz-StatisticalPhysics_1958.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Can_One_Hear_the_Shape_of_a_Drum_Kac_1966.pdf filter=lfs diff=lfs merge=lfs -text
