@@ -80,6 +80,8 @@
 
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
 
+[Four Lectures on Statistical Physics of Learning, Bruno Loureiro, Ecole Normale Superieure - PSL & CNRS France, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Four_Lectures_on_Statistical_Physics_of_Learning_Loureiro_2024.pdf)
+
 ### Generative and diffusion models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
