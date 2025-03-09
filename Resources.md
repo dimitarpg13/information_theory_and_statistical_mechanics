@@ -60,6 +60,8 @@
 
 [Statistical Physics by L.D. Landau and E.M. Lifshitz, Second Edition, 1970 (orig. 1958)](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/LandauLifshitz-StatisticalPhysics_1958.pdf)
 
+[The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
