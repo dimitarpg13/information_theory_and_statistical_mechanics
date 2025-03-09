@@ -91,3 +91,4 @@ literature/books/Introduction_to_functional_equations_Efthimiou_2010.pdf filter=
 literature/books/An-Introduction-to-Statistical-Mechanics-and-Thermodynamics-Swendsen-2012.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/LandauLifshitz-StatisticalPhysics_1958.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Can_One_Hear_the_Shape_of_a_Drum_Kac_1966.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf filter=lfs diff=lfs merge=lfs -text
