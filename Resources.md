@@ -84,6 +84,15 @@
 
 [Four Lectures on Statistical Physics of Learning, Bruno Loureiro, Ecole Normale Superieure - PSL & CNRS France, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Four_Lectures_on_Statistical_Physics_of_Learning_Loureiro_2024.pdf)
 
+
+### Fisher information and Information Geometry
+
+[An Elementary Introduction to Information Geometry, Frank Nielsen, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/An_elementary_introduction_to_information_geometry_Nielsen_2020.pdf)
+
+[The Many Faces of Information Geometry, Frank Nielsen, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_Many_Faces_of_Information_Geometry_Nielsen_2022.pdf)
+
+[Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
+
 ### Generative and diffusion models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
