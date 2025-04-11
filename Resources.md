@@ -242,9 +242,19 @@
 
 related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
-### Double Descent Phenomenon
+### Statisitcal Mechanics of Learning, The Double Descent Phenomenon
+
+[A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
 
 [Theory of the Double Descent Phenomena in High-Dimensional Linear Regression, Charles H. Mafrtin, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Theory_of_the_Double_Descent_Phenomena_in_High-Dimensional_Linear_Regression_Charles_Martin_2025.pdf)
+
+[Reconciling modern machine learning practice and the bias-variance trade-off, Mikhail Belkin et al, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
+
+[Statistical Mechanics of Learning, Andreas Engel, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Statistical_Mechanics_of_Learning_Engel_1999.pdf)
+
+[The Statistical Mechanics of Learning A Rule, T. Watkin et al, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf)
+
+[The Peaking Phenomenon in Semi-Supervised Learning, JH Krijte, M. Loog, 2016](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/The_Peaking_Phenomenon_in_Semi-supervised_Learning_Krijthe_2016.pdf)
 
 ### Percolation Theory and Mazes
 
