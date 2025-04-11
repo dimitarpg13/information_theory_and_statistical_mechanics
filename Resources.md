@@ -242,6 +242,10 @@
 
 related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
+### Double Descent Phenomenon
+
+[Theory of the Double Descent Phenomena in High-Dimensional Linear Regression, Charles H. Mafrtin, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Theory_of_the_Double_Descent_Phenomena_in_High-Dimensional_Linear_Regression_Charles_Martin_2025.pdf)
+
 ### Percolation Theory and Mazes
 
 [Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
