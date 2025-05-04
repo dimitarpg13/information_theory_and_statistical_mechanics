@@ -90,3 +90,4 @@ literature/books/Exactly_Solved_Models_In_Statistical_Mechanics_Baxter_1989.pdf 
 literature/books/Introduction_to_functional_equations_Efthimiou_2010.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/An-Introduction-to-Statistical-Mechanics-and-Thermodynamics-Swendsen-2012.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/LandauLifshitz-StatisticalPhysics_1958.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/generative_models/Diffusion_Models_are_Evolutionary_Algorithms_Zhang_2024.pdf filter=lfs diff=lfs merge=lfs -text
