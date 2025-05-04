@@ -60,6 +60,8 @@
 
 [Statistical Physics by L.D. Landau and E.M. Lifshitz, Second Edition, 1970 (orig. 1958)](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/LandauLifshitz-StatisticalPhysics_1958.pdf)
 
+[The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
@@ -76,7 +78,20 @@
 
 [Information Theory and Statistical Mechanics, Part II, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Information_theory_and_statistical_mechanics_part2_Jaynes_1957.pdf)
 
+[Can One Hear the Shape of a Drum?, Mark Kac, 1966](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Can_One_Hear_the_Shape_of_a_Drum_Kac_1966.pdf)
+
 [Entropy, Information and Quantum Measurements, Goran Lindblad, Royal Institute of Technology, Sweden, 1973](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Entropy_Information_and_Quantum_Measurements_Lindblad_1973.pdf)
+
+[Four Lectures on Statistical Physics of Learning, Bruno Loureiro, Ecole Normale Superieure - PSL & CNRS France, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Four_Lectures_on_Statistical_Physics_of_Learning_Loureiro_2024.pdf)
+
+
+### Fisher information and Information Geometry
+
+[An Elementary Introduction to Information Geometry, Frank Nielsen, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/An_elementary_introduction_to_information_geometry_Nielsen_2020.pdf)
+
+[The Many Faces of Information Geometry, Frank Nielsen, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_Many_Faces_of_Information_Geometry_Nielsen_2022.pdf)
+
+[Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
 
 ### Generative and diffusion models
 
@@ -226,6 +241,20 @@
 [Conformal prediction under ambiguous ground truth, David Stutz et al, 2023, DeepMind](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/conformal_prediction/Conformal_prediction_under_ambiguous_ground_truth_Stutz_2023.pdf)
 
 related repo: https://github.com/google-deepmind/uncertain_ground_truth
+
+### Statisitcal Mechanics of Learning, The Double Descent Phenomenon
+
+[A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
+
+[Theory of the Double Descent Phenomena in High-Dimensional Linear Regression, Charles H. Mafrtin, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Theory_of_the_Double_Descent_Phenomena_in_High-Dimensional_Linear_Regression_Charles_Martin_2025.pdf)
+
+[Reconciling modern machine learning practice and the bias-variance trade-off, Mikhail Belkin et al, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
+
+[Statistical Mechanics of Learning, Andreas Engel, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/Statistical_Mechanics_of_Learning_Engel_1999.pdf)
+
+[The Statistical Mechanics of Learning A Rule, T. Watkin et al, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf)
+
+[The Peaking Phenomenon in Semi-Supervised Learning, JH Krijte, M. Loog, 2016](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/The_Peaking_Phenomenon_in_Semi-supervised_Learning_Krijthe_2016.pdf)
 
 ### Percolation Theory and Mazes
 
