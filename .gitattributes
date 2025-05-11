@@ -97,3 +97,4 @@ literature/articles/information_geometry/The_Many_Faces_of_Information_Geometry_
 literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/double_descent/Statistical_Mechanics_of_Learning_Engel_1999.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/double_descent/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/variational_inference/Variational_Formulation_of_the_Particle_Flow_Particle_Filter_Yi_2025.pdf filter=lfs diff=lfs merge=lfs -text
