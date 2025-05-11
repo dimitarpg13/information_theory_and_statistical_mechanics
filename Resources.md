@@ -161,24 +161,6 @@
 
 [Probabilistic Modeling and Reasoning: The Junction Tree Algorithm, David Barber, 2003](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
 
-### Application of Variational Inference to Physical Problems
-
-[Variational Formulation of the Particle Flow Particle Filter, Y. Yi et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_inference/Variational_Formulation_of_the_Particle_Flow_Particle_Filter_Yi_2025.pdf)
-
-### The Fokker-Planck equation
-
-[The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
-
-[Fokker-Planck Equation, Wikipedia](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
-
-[Klaus Schulten's lecture notes on non-equilibrium statistical mechanics, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/tree/main/literature/articles/non_equilibrium_statistical_mechanics/lecture_notes_klaus_schulten)
-
-[Generalized Fokker-Planck Equation: Derivation and Exact Solutions, SI Denisov et al, 2009](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Generalized_Fokker-Planck_equation-Derivation_and_exact_solutions_Denisov_2009.pdf)
-
-[Probability Flow solution of the Fokker-Planck Equation, Nicholas Boffi, Eric Venden Eijnden, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Probability_flow_solution_of_the_Fokker-Planck_equation_Boffi_NYU_Courrant_2023.pdf)
-
-[Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
-
 ### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
@@ -208,6 +190,24 @@
 [Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
+### Application of Variational Inference to Physical Problems
+
+[Variational Formulation of the Particle Flow Particle Filter, Y. Yi et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_inference/Variational_Formulation_of_the_Particle_Flow_Particle_Filter_Yi_2025.pdf)
+
+### The Fokker-Planck equation
+
+[The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
+
+[Fokker-Planck Equation, Wikipedia](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+
+[Klaus Schulten's lecture notes on non-equilibrium statistical mechanics, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/tree/main/literature/articles/non_equilibrium_statistical_mechanics/lecture_notes_klaus_schulten)
+
+[Generalized Fokker-Planck Equation: Derivation and Exact Solutions, SI Denisov et al, 2009](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Generalized_Fokker-Planck_equation-Derivation_and_exact_solutions_Denisov_2009.pdf)
+
+[Probability Flow solution of the Fokker-Planck Equation, Nicholas Boffi, Eric Venden Eijnden, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Probability_flow_solution_of_the_Fokker-Planck_equation_Boffi_NYU_Courrant_2023.pdf)
+
+[Solving the inverse problem of time independent Fokker–Planck equation with a self supervised neural network method, W. Liu et al, Nature, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/non_equilibrium_statistical_mechanics/Solving_the_inverse_problem_of_time_independent_Fokker%E2%80%93Planck_equation_with_a_self_supervised_neural_network_method_Liu_2021.pdf)
 
 ### Fisher information metric
 
