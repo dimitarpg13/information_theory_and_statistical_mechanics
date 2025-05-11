@@ -161,6 +161,10 @@
 
 [Probabilistic Modeling and Reasoning: The Junction Tree Algorithm, David Barber, 2003](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
 
+### Application of Variational Inference to Physical Problems
+
+[Variational Formulation of the Particle Flow Particle Filter, Y. Yi et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_inference/Variational_Formulation_of_the_Particle_Flow_Particle_Filter_Yi_2025.pdf)
+
 ### The Fokker-Planck equation
 
 [The Fokker-Planck Equation: Methods of Solution and Application, 2nd edition, H. Risken, 1996](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/the-fokker-planck-equation-methods-of-solution-and-applications-2nd_edition-Risken-1996.pdf)
