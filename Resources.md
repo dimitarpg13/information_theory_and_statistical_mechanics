@@ -117,6 +117,8 @@
 
 [Perspectives on Diffusion, Sander Dieleman, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Perspectives_on_diffusion%E2%80%93Sander_Dieleman_2023.pdf)
 
+[Diffusion Models are Evolutionary Algorithms, Yanbo Zhang, Benedikt Hartl, Hananel Hazan, Michael Levin, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_are_Evolutionary_Algorithms_Zhang_2024.pdf)
+
 [Introduction to Variational Methods for Graphical Models, M.I. Jordan et al, 1999](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
 
 [Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
