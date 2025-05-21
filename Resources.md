@@ -93,6 +93,15 @@
 
 [Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
 
+
+### The Roots of the Seq2seq models
+
+[Seq2Seq Models, Wikipedia](https://en.wikipedia.org/wiki/Seq2seq)
+
+[Sequence Transduction and Finite State Transducer, Wikipedia](https://en.wikipedia.org/wiki/Finite-state_transducer)
+
+[The Noisy Channel Model in NLP, Wikipedia](https://en.wikipedia.org/wiki/Noisy_channel_model)
+
 ### Generative and diffusion models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
