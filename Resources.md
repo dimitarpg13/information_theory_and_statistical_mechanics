@@ -102,6 +102,10 @@
 
 [The Noisy Channel Model in NLP, Wikipedia](https://en.wikipedia.org/wiki/Noisy_channel_model)
 
+[Spelling Correction and The Noisy Channel, Chapter from Speech and Language Processing, Daniel Jurafsky and James H. Martin, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/seq2seq/Spelling_Correction_and_the_Noisy_Channel_Jurafsky_2024.pdf)
+
+[An Improved Error Model for Noisy Channel Error Correction, Eric Brill, Roger C. Moore, 2000](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/seq2seq/An_Improved_Error_Model_for_Noisy_Channel_Spelling_Correction_Brill_Moore_2000.pdf)
+
 ### Generative and diffusion models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
