@@ -98,3 +98,4 @@ literature/articles/double_descent/Reconciling_modern_machine_learning_practice_
 literature/articles/double_descent/Statistical_Mechanics_of_Learning_Engel_1999.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/double_descent/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/variational_inference/Variational_Formulation_of_the_Particle_Flow_Particle_Filter_Yi_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/brownian_motion/The_Brownian_web_the_Brownian_net_and_their_universality_Schertzer_2017.pdf filter=lfs diff=lfs merge=lfs -text
