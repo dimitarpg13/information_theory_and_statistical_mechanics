@@ -275,6 +275,12 @@ related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
 [The Peaking Phenomenon in Semi-Supervised Learning, JH Krijte, M. Loog, 2016](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/The_Peaking_Phenomenon_in_Semi-supervised_Learning_Krijthe_2016.pdf)
 
+### Brownian Motion and Related Algorithms
+
+[The Brownian web: Characterization and convergence, L. R. G. Fontes, M. Isopi, C. M. Newman, K. Ravishankar, 2005](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/brownian_motion/The_Brownian_web-Characterization_and_convergence_Fontes_2005.pdf)
+
+[The Brownian web, the Brownian net, and their universality, Emmanuel Schertzer, Rongfeng Sun, Jan M. Swart, 2017](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/brownian_motion/The_Brownian_web_the_Brownian_net_and_their_universality_Schertzer_2017.pdf)
+
 ### Percolation Theory and Mazes
 
 [Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics, L. Quanta Magazine, 2024](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
