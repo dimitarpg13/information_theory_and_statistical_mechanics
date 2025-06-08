@@ -101,3 +101,4 @@ literature/articles/variational_inference/Variational_Formulation_of_the_Particl
 literature/articles/brownian_motion/The_Brownian_web_the_Brownian_net_and_their_universality_Schertzer_2017.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/generative_models/A_Fourier_Space_Perspective_on_Diffusion_Models_Falck_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/generative_models/Neural_Diffusion_Models_Bartosh_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/generative_models/Neural_Flow_Diffusion_Models-Learnable_Forward_Process_for_Improved_Diffusion_Modelling_Bartish_2024.pdf filter=lfs diff=lfs merge=lfs -text
