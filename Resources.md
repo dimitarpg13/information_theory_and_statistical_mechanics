@@ -174,6 +174,14 @@
 
 [Probabilistic Modeling and Reasoning: The Junction Tree Algorithm, David Barber, 2003](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
 
+[Flow-based Deep Generative Models, Lilian Weng, online blog, 2018](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
+
+[An Introduction to Flow Matching, Tor Fjelde, Emile Mathieu, Vincent Dutordoir, U of Cambridge online blog, 2024](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+
+[TorchEBM - Energy-Based Modeling in PyTorch](https://soran-ghaderi.github.io/torchebm/latest/)
+
+github: https://github.com/soran-ghaderi/torchebm
+
 ### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
