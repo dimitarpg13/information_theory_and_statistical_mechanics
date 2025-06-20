@@ -202,6 +202,12 @@ github: https://github.com/soran-ghaderi/torchebm
 
 [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis, Patrick Esser et al, Stability AI, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scaling_Rectified_Flow_Transformers_for_High-Resolution_Image_Synthesis_Esser_2024.pdf)
 
+[Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression, Dingcheng Zhen et al, 2025 on HuggingFace](https://huggingface.co/papers/2506.09482)
+
+paper: https://arxiv.org/abs/2506.09482
+
+github: https://github.com/TransDiff/TransDiff
+
 ### Variational Autoencoders
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
