@@ -309,6 +309,14 @@ related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
 [Conductivity Exponent and Backbone Dimension in 2D Percolation, Peter Grassberger, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/percolation/Conductivity_Exponent_and_Backbone_Dimension_in_2-d_Percolation_grassberger_1998.pdf)
 
+### Symmetries in Classical Thermodynamics
+
+[Symmetry and control in thermodynamics, Emily Adlam  et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/symmetries_in_thermodynamics/Symmetry_and_control_in_thermodynamics_Adlam_2022.pdf)
+
+[Thermodynamic Symmetry and Its Applications ‐ Search for Beauty in Science, ZC Li, Book Chapter, 2018](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/symmetries_in_thermodynamics/Thermodynamic_Symmetry_and_Its_Applications_Li_2022.pdf)
+
+[Symmetries in thermodynamics and the conundrum of negative temperature, Alessio Lapolla, 2015](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/symmetries_in_thermodynamics/Symmetries_in_thermodynamics_and_the_conundrum_of_negative_temperature_Lapolla_2015.pdf)
+
 ## Information Theory Lectures
 
 ### Harvard 2022, Gregory Falkovich
