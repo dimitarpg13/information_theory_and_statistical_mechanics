@@ -289,6 +289,10 @@ related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
 [The Peaking Phenomenon in Semi-Supervised Learning, JH Krijte, M. Loog, 2016](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/double_descent/The_Peaking_Phenomenon_in_Semi-supervised_Learning_Krijthe_2016.pdf)
 
+### Statistical Mechanics of Reasoning in Large Language Models
+
+[A Statistical Physics of Language Model Reasoning, Jack David Carson et al, MIT, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/large_language_models/A_Statistical_Physics_of_Language_Model_Reasoning_Carson_2025.pdf)
+
 ### Brownian Motion and Related Algorithms
 
 [The Brownian web: Characterization and convergence, L. R. G. Fontes, M. Isopi, C. M. Newman, K. Ravishankar, 2005](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/brownian_motion/The_Brownian_web-Characterization_and_convergence_Fontes_2005.pdf)
