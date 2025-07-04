@@ -272,6 +272,8 @@ github: https://github.com/TransDiff/TransDiff
 
 [Onsager and Kaufmans Calculation of the Spontaneous Magnetization of the Ising Model, R.J. Baxter, 2011](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/Onsager_and_Kaufmans_calculation_of_the_spontaneous_magnetization_of_the_Ising_model_Baxter_2011.pdf)
 
+[The Ising Model youtube video by NumberCruncher, 2023](https://youtu.be/1WB4ovaNepg?si=XmLTVrWFmt0MAFpc)
+
 ### Thermodynamics and Computation
 
 [Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times, G. Manzano et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/thermodynamics_of_computation/Thermodynamics_of_Computations_with_Absolute_Irreversibility_Unidirectional_Transitions_and_Stochastic_Computation_Times_Manzano_2024.pdf)
