@@ -108,3 +108,4 @@ literature/articles/large_language_models/A_Statistical_Physics_of_Language_Mode
 literature/articles/symmetries_in_thermodynamics/Symmetry_and_control_in_thermodynamics_Adlam_2022.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/symmetries_in_thermodynamics/Thermodynamic_Symmetry_and_Its_Applications_Li_2022.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/geometric_contact_flows/Geometric_Contact_Flows-Contactomorphisms_for_Dynamics_and_Control_Testa_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Ising_model/Crystal_Statistics_I_A_Two-Dimensional_Model_with_an_Order-Disorder_Transition_Onsager_1944 filter=lfs diff=lfs merge=lfs -text
