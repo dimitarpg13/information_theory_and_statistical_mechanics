@@ -262,6 +262,15 @@ github: https://github.com/TransDiff/TransDiff
 
 [Boltzman Distributions and the Partition Function, Charles H. Martin, online blog, 2013](https://calculatedcontent.com/2013/11/14/foundations-the-parition-function/)
 
+### The Ising Model
+
+[Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition, Lars Onsager, 1944](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/Crystal_Statistics_I_A_Two-Dimensional_Model_with_an_Order-Disorder_Transition_Onsager_1944)
+
+[Crystal Statistics. II. Partition Function Evaluated by Spinor Analysis, Bruria Kaufman, 1949](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/Crystal_Statistics_II_Partition_Function_Evaluated_by_Spinor_Analysis_Kaufman_1949)
+
+[The Ising Model in One and Two Dimensions, Johannes Obermeyer, 2020](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/The_Ising_Model_in_One_and_Two_Dimensions_Obermeyer_2020.pdf)
+
+[Onsager and Kaufmans Calculation of the Spontaneous Magnetization of the Ising Model, R.J. Baxter, 2011](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/Onsager_and_Kaufmans_calculation_of_the_spontaneous_magnetization_of_the_Ising_model_Baxter_2011.pdf)
 
 ### Thermodynamics and Computation
 
