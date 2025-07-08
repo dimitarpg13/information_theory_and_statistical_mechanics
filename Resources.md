@@ -182,6 +182,12 @@
 
 github: https://github.com/soran-ghaderi/torchebm
 
+#### Physics Emulaton via Generative Models
+
+[Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation, François Rozet et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/pysics_emulation_via_gen_models/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf)
+
+git repo: https://github.com/polymathicai/lola
+
 ### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
