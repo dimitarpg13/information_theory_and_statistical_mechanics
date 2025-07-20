@@ -188,6 +188,10 @@ github: https://github.com/soran-ghaderi/torchebm
 
 git repo: https://github.com/polymathicai/lola
 
+#### Generative Modeling for Deep Learning Networks analysis
+
+[Generative Modeling of Weights: Generalization or Memorization? Boya Zeng et al, Princeton U., 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Generative_Modeling_of_Weights-Generalization_or_Memorization_Zheng_Princeton_2025.pdf)
+
 ### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
