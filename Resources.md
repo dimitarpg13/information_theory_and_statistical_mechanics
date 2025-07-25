@@ -188,6 +188,8 @@ github: https://github.com/soran-ghaderi/torchebm
 
 [Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment, J. Guo et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/test_time_adaptation_via_diffusion/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf)
 
+related repo: https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment
+
 #### Physics Emulaton via Generative Models
 
 [Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation, François Rozet et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/pysics_emulation_via_gen_models/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf)
