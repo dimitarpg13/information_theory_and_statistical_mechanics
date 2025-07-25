@@ -182,6 +182,12 @@
 
 github: https://github.com/soran-ghaderi/torchebm
 
+#### Test Time Diffusion
+
+[Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/deep_research/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
+
+[Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment, J. Guo et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/test_time_adaptation_via_diffusion/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf)
+
 #### Physics Emulaton via Generative Models
 
 [Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation, François Rozet et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/pysics_emulation_via_gen_models/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf)
