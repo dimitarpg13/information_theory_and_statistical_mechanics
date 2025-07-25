@@ -272,6 +272,10 @@ github: https://github.com/TransDiff/TransDiff
 
 [Boltzman Distributions and the Partition Function, Charles H. Martin, online blog, 2013](https://calculatedcontent.com/2013/11/14/foundations-the-parition-function/)
 
+#### SETOL: A Semi-Empirical Theory of (Deep) Learning
+
+[SETOL: A Semi-Empirical Theory of (Deep) Learning, Charles H. Martin, Christopher Hinrichs, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf)
+
 ### The Ising Model
 
 [Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition, Lars Onsager, 1944](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/Crystal_Statistics_I_A_Two-Dimensional_Model_with_an_Order-Disorder_Transition_Onsager_1944)
