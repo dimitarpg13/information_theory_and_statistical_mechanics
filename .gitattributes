@@ -117,3 +117,4 @@ literature/articles/generative_models/Generative_Modeling_of_Weights-Generalizat
 docs/A_Note_on_Malliavin_Calculus_by_Paul_Thompson.docx filter=lfs diff=lfs merge=lfs -text
 literature/articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/deep_research/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/test_time_adaptation_via_diffusion/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf filter=lfs diff=lfs merge=lfs -text
