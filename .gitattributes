@@ -115,3 +115,4 @@ literature/articles/Ising_model/Onsager_and_Kaufmans_calculation_of_the_spontane
 literature/articles/pysics_emulation_via_gen_models/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/generative_models/Generative_Modeling_of_Weights-Generalization_or_Memorization_Zheng_Princeton_2025.pdf filter=lfs diff=lfs merge=lfs -text
 docs/A_Note_on_Malliavin_Calculus_by_Paul_Thompson.docx filter=lfs diff=lfs merge=lfs -text
+literature/articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf filter=lfs diff=lfs merge=lfs -text
