@@ -182,6 +182,8 @@
 
 github: https://github.com/soran-ghaderi/torchebm
 
+[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching, Aaron Havens et al, Meta FAIR AI, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Adjoint_Sampling-Highly_Scalable_Diffusion_Samplers_via_Adjoint_Matching_Havens_2025.pdf)
+
 #### Test Time Diffusion
 
 [Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/deep_research/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
