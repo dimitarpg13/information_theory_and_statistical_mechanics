@@ -282,6 +282,10 @@ github: https://github.com/TransDiff/TransDiff
 
 [Boltzman Distributions and the Partition Function, Charles H. Martin, online blog, 2013](https://calculatedcontent.com/2013/11/14/foundations-the-parition-function/)
 
+### MCMC
+
+[Geometry & Dynamics for Markov Chain Monte Carlo, Alessandro Barp et al, Imperial College, 2017](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/monte_carlo/Geometry_and_Dynamics_for_Markov_Chain_Monte_Carlo_Barp_2017.pdf)
+
 #### SETOL: A Semi-Empirical Theory of (Deep) Learning
 
 [SETOL: A Semi-Empirical Theory of (Deep) Learning, Charles H. Martin, Christopher Hinrichs, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf)
