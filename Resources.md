@@ -156,6 +156,8 @@
 
 [Flow Matching for Generative Modeling, Yaron Lipman et al, Meta FAIR, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Flow_Matching_for_Generative_Modeling_Lipman_Meta_2023.pdf)
 
+[Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow, X. Liu et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Flow_Straight_and_Fast-Learning_to_Generate_and_Transfer_Data_with_Rectified_Flow_Liu_2022.pdf)
+
 [Interpreting and Improving Diffusion Models from an Optimization Perspective, F. Permenter et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Interpreting_and_Improving_Diffusion_Models_from_an_Optimization_Perspective_Permenter_2023.pdf)
 
 [Sampling, Diffusions, and Stochastic Localization, Andrea Montanari, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Sampling_diffusions_and_stochastic_localization_Montanari_2023.pdf)
