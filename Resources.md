@@ -154,6 +154,8 @@
 
 [Denoising Diffusion Implicit Models, J. Song et al, ICLR 2021](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/denoising_diffusion_implicit_models_Song_Stanford_2021.pdf)
 
+[Stochastic Interpolants: A Unifying Framework for Flows and Diffusions, Michael S. Albergo et al, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Stochastic_Interpolants-A_Unifying_Framework_for_Flows_and_Diffusions_Albergo_NYU_2023.pdf)
+
 [Flow Matching for Generative Modeling, Yaron Lipman et al, Meta FAIR, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Flow_Matching_for_Generative_Modeling_Lipman_Meta_2023.pdf)
 
 [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow, X. Liu et al, 2022](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Flow_Straight_and_Fast-Learning_to_Generate_and_Transfer_Data_with_Rectified_Flow_Liu_2022.pdf)
