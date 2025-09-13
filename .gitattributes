@@ -124,3 +124,4 @@ literature/articles/fisher_information_and_information_geometry/The_Many_Faces_o
 literature/articles/generative_models/An_Introduction_to_Flow_Matching_and_Diffusion_Models_Holderrieth_MIT_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/generative_models/Flow_Straight_and_Fast-Learning_to_Generate_and_Transfer_Data_with_Rectified_Flow_Liu_2022.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/generative_models/Stochastic_Interpolants-A_Unifying_Framework_for_Flows_and_Diffusions_Albergo_NYU_2023.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/generative_models/Flow_Matching_Guide_and_Code_Lipman_2024.pdf filter=lfs diff=lfs merge=lfs -text
