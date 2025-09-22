@@ -108,6 +108,10 @@
 
 ### Generative and diffusion models
 
+[Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling, Michal Balcerak et al, U of Zurich, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Energy_Matching-Unifying_Flow_Matching_and_Energy-Based_Models_for_Generative_Modeling_Balcerak_2025.pdf)
+
+related github repo: https://github.com/m1balcerak/EnergyMatching
+
 [An Introduction to Flow Matching and Diffusion Models, Peter Holderrieth and Ezra Erives, Notes from MIT Class 6.S184, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/An_Introduction_to_Flow_Matching_and_Diffusion_Models_Holderrieth_MIT_2025.pdf)
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
