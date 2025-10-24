@@ -114,6 +114,8 @@ related github repo: https://github.com/m1balcerak/EnergyMatching
 
 [An Introduction to Flow Matching and Diffusion Models, Peter Holderrieth and Ezra Erives, Notes from MIT Class 6.S184, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/An_Introduction_to_Flow_Matching_and_Diffusion_Models_Holderrieth_MIT_2025.pdf)
 
+[Beneath The Kinetic Interpretation of Noise, Carlos Escudero and Helder Rojas, 2025](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Beneath_the_Kinetic_Interpretation_of_Noise_Escudero_2025.pdf)
+
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
 [What are Diffusion Models? Lilian Weng, OpenAI, 2021 (online blog)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
