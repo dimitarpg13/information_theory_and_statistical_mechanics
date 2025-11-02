@@ -320,6 +320,8 @@ github: https://github.com/TransDiff/TransDiff
 
 [Onsager and Kaufmans Calculation of the Spontaneous Magnetization of the Ising Model, R.J. Baxter, 2011](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Ising_model/Onsager_and_Kaufmans_calculation_of_the_spontaneous_magnetization_of_the_Ising_model_Baxter_2011.pdf)
 
+[Exactly Solved Models in Statistical Mechanics, R.J. Baxter, 1982](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Exactly_Solved_Models_in_Statisitchal_Mechanics_Baxter_1982.pdf)
+
 [The Ising Model youtube video by NumberCruncher, 2023](https://youtu.be/1WB4ovaNepg?si=XmLTVrWFmt0MAFpc)
 
 ### Thermodynamics and Computation
