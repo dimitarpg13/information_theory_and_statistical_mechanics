@@ -93,10 +93,6 @@
 
 [Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
 
-### Epiplexity
-
-[From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence, Marc Finzi et al, CMU, NYU, 2026](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/epiplexity/From_Entropy_to_Epiplexity-Rethinking_Information_for_Computationally_Bounded_Intelligence_Finzi_2026.pdf)
-
 ### The Roots of the Seq2seq models
 
 [Seq2Seq Models, Wikipedia](https://en.wikipedia.org/wiki/Seq2seq)
@@ -294,6 +290,10 @@ github: https://github.com/TransDiff/TransDiff
 [Approximations to the Fisher Information Metric of Deep Generative Models for Out-Of-Distribution Detection, S. Dauncey et al, 2024](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/generative_models/Approximations_to_the_Fisher_Information_Metric_of_Deep_Generative_Models_for_Out-Of-Distribution_Detection_Dauncey_2024.pdf)
 
 [The information geometry of mirror descent, G. Raskutti, S. Mukherjee, 2014](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/The_information_geometry_of_mirror_descent_Raskutti_Mukherjee_2014.pdf)
+
+### Epiplexity
+
+[From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence, Marc Finzi et al, CMU, NYU, 2026](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/epiplexity/From_Entropy_to_Epiplexity-Rethinking_Information_for_Computationally_Bounded_Intelligence_Finzi_2026.pdf)
 
 ### Statistical Mechanics of Neural Networks
 
