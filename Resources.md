@@ -93,6 +93,9 @@
 
 [Methods of Information Geometry, Shun-ichi Amari, Hiroshi Nagaoka, 1993](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/fisher_information_and_information_geometry/methods-of-information-geometry_Shun-ichi_Amari.pdf)
 
+### Epiplexity
+
+[From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence, Marc Finzi et al, CMU, NYU, 2026](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/epiplexity/From_Entropy_to_Epiplexity-Rethinking_Information_for_Computationally_Bounded_Intelligence_Finzi_2026.pdf)
 
 ### The Roots of the Seq2seq models
 
