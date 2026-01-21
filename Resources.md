@@ -44,6 +44,8 @@
 
 [An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
 
+[Kolmogorov Complexity and Algorithmic Randomness, Alexander Shen, Vladimir Andreevich Uspensky, Nikolay Vereshchagin, 2019](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Kolmogorov_Complexity_and_Algorithmic_Randomness_Shen_2019.pdf)
+
 [The Mathematics of Diffusion, J. Crank, 1975](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Crank-The-Mathematics-of-Diffusion.pdf)
 
 [An Introduction to Stochastic Modeling, Howward M. Taylor, 3rd Edition, 1998](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf)
