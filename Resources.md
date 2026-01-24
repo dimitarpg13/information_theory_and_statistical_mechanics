@@ -64,6 +64,8 @@
 
 [The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
 
+[Lecture Notes on Statistics and Information Theory, John Duchi, 2023](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/books/Lecture_Notes_on_Statisitics_and_Information_Theory_Duchi_2023.pdf)
+
 ## articles
 
 [Differential Space, Norbert Wiener, 1923](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/literature/articles/Differential_Spaces_Wiener_1923.pdf)
