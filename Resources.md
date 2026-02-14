@@ -435,6 +435,37 @@ related repo: https://github.com/google-deepmind/uncertain_ground_truth
 
 [Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
 
-## Statistical Mechanics for Deep Learning
+## Statistical Mechanics Lectures
+
+### Statistical Mechanics for Deep Learning
 
 [Statistical Mechanics of Deep Learning at Kavli Institute for Theoretical Physics, Haim Sompolinsky (Hebrew Univ), 2023](https://youtu.be/y5sT7TlIQGk)
+
+
+## Statistical Mechanics of Particles Review
+
+[Kinetic Theory of Gases: Part 1, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=BhVyiU_dWps&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=7)
+
+[Kinetic Theory of Gases: Part 2, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=8woIHrY6eM0&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=8)
+
+[Kinetic Theory of Gases: Part 3, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=t7pTpwMjQ5I&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=9)
+
+[Kinetic Theory of Gases: Part 4, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=ybCsMYk5xMg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=10)
+
+[Kinetic Theory of Gases: Part 5, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=QmV7FOXijMo&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=11)
+
+[Classical Statistical Mechanics: Part 1, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=ckUyxmwaC5E&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=12)
+
+[Classical Statistical Mechanics: Part 2, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=Lt8FtWsq0q0&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=13)
+
+[Classical Statistical Mechanics: Part 3, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=tCxonq5r-O8&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=14)
+
+[Interacting Particles: Part 1, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=Y59FgktB4uQ&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=15)
+
+[Interacting Particles: Part 2, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=TDnfhpAZBqs&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=16)
+
+[Interacting Particles: Part 3, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=TSjJlJJ2aoI&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=17)
+
+[Interacting Particles: Part 4, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=l2Q31eoy_rY&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=18)
+
+[Interacting Particles: Part 5, MIT 8.333 Statistical Mechanics I, 2013](https://www.youtube.com/watch?v=hl4c1P9D8IY&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg&index=19)
